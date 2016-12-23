@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "672852608116",
+    "firebase_url": "https://fir-example-b79ae.firebaseio.com",
+    "project_id": "fir-example-b79ae",
+    "storage_bucket": "fir-example-b79ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672852608116:android:a1c381ceec335e52",
+        "android_client_info": {
+          "package_name": "lipdroid.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672852608116-cs2jq23kkua22tnpeugeihmifnl0c26d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lipdroid.firebaseexample",
+            "certificate_hash": "F0FC0D21CB49D38D2D06B9ECF4E27AD40A20A915"
+          }
+        },
+        {
+          "client_id": "672852608116-o0csoe98nsh8vuc3675j0vav3q6pgcv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672852608116-o0csoe98nsh8vuc3675j0vav3q6pgcv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
